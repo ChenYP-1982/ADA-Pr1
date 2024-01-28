@@ -1,0 +1,6 @@
+scikit-learn==1.4.0
+numpy=1.26.3
+Pandas==2.2.0
+Matplotlib == 3.8.2
+Seaborn == 0.13.2
+Yellowbrick== 1.5
