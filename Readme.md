@@ -8,9 +8,14 @@ O **Campeonato Brasileiro**, também conhecido como **Brasileirão** e **Série 
 
 ```
 bash
-conda create -n AdaPrPy1 python = 3.11
-conda activate AdaPrPy1 
-pip install -r Requirements.txt
+
+conda create -n myvenv python=3.9
+
+conda activate myvenv
+
+pip intall -r Requirements.txt
+
+conda deactivate
 
 ```
 
@@ -98,7 +103,7 @@ Gabriel
 
 Grabriela
 
-Renna
+Renan
 
 Marcel
 
