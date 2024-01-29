@@ -69,7 +69,7 @@ Os dados foram retiradas e trabalhadas para obtermos as informacoes de colocacao
 
 ![Local Image](img/dados_finais.png)
 
-# Conclusao Final
+# Conclusāo 
 
 O questionamento levantado pela diretoria se há uma relacao entre Longevidade e Posicao final  dos times, foi pode ser respondida de forma taxativa. 
 
