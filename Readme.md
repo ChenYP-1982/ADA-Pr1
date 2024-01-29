@@ -53,6 +53,10 @@ Foi usado um um codigo de teste para extrair as informacoes necessarias para ape
 
 ![Local Image](img/teste1.png)
 
+Após conseguir extrair as informações criamos uma tabela pandas para facilitar a visualização do resultado
+
+![Local Image](img/Eg1.png)
+
 # Data Preparation 
 
 Para a preparacao dos dados,  criamos uma funcao onde ela recebe um parametro que vai ser a o dataset a ser analisado, segue um exemplo do codigo implemenado.
