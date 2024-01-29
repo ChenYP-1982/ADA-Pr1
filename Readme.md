@@ -66,7 +66,7 @@ Após conseguir extrair as informações criamos uma tabela pandas para facilita
 
 Para a preparacao dos dados,  criamos uma funcao onde ela recebe um parametro que vai ser a o dataset a ser analisado, segue um exemplo do codigo implemenado.
 
-Os dados foram retiradas e trabalhadas para obtermos as informacoes de colocacaoes final, saldo de gol, longevidade de do tecnicos, gol feito
+Os dados foram retiradas e trabalhadas para obtermos as informacoes de colocacaoes final, saldo de gol, longevidade  dos tecnicos, gol feito
 
 ![Local Image](img/codigo1.png)
 
@@ -95,21 +95,21 @@ Atraves desses dois graficos podemos entender que longevidade apresenta um corre
 # Muito Obrigado
 **Colaboradores**
 
-Ane Carol
+Ane Carol - https://www.linkedin.com/in/anecarolineferreira/
 
-Chen Yen Pin
+Chen Yen Pin - https://www.linkedin.com/in/chen-yen-pin/
 
-Jesya
+Jesya de Lima - https://www.linkedin.com/in/jesyadelima/
 
-Gabriel
+Gabriel Alvarenga - https://www.linkedin.com/in/gabriel-alvarenga-rocha-994b5120a/
 
-Gabriel
+Gabriel Vilarinho - https://www.linkedin.com/in/gabriel-vilarinho/
 
-Grabriela
+Grabriela Mendes - https://www.linkedin.com/in/gabriele-mendes-adorno-46719493?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Renan
+Renan Silva - https://www.linkedin.com/in/renan-msilva?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
-Marcel
+Marcel Cleres - https://www.linkedin.com/in/marcelcleres/
 
 
 
