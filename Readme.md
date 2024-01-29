@@ -4,7 +4,7 @@ O **Campeonato Brasileiro**, também conhecido como **Brasileirão** e **Série 
 
 # Escopo do projeto
 
-#### Para reprodutibilidade do PR sugere a seguintes oreientações
+#### Para reprodutibilidade do PR sugere a seguintes orientações:
 
 ```
 bash
@@ -76,11 +76,11 @@ Os dados foram retiradas e trabalhadas para obtermos as informacoes de colocacao
 
 # Conclusāo 
 
-O questionamento levantado pela diretoria se há uma relacao entre Longevidade e Posicao final  dos times, foi pode ser respondida de forma taxativa. 
+O questionamento levantado pela diretoria sobre a existência de uma relação entre a longevidade e a posição final dos times não pode ser respondido de forma taxativa.
 
 ![Local Image](img/grafico_final.png)
 
-Porém, para responder de uma maneira mais visual foi usado o grafico de regressão e um heatmap para entender a correlaçāo entre as variáveis
+No entanto, para uma resposta mais visual, foi utilizado o gráfico de regressão e um mapa de calor (heatmap) para compreender a correlação entre as variáveis.
 
 **REGPLOT**
 
@@ -90,7 +90,7 @@ Porém, para responder de uma maneira mais visual foi usado o grafico de regress
 
 ![Local Image](img/correlacao.png)
 
-Atraves desses dois graficos podemos entender que longevidade apresenta um correlacao de media com a colocacao final, porem como estamos analisando apenas um unico ano, nao podemos afimar de maneira mais efusiva, evitando um um vies da nossa analise
+Através desses dois gráficos, podemos entender que a longevidade apresenta uma correlação média com a colocação final. No entanto, como estamos analisando apenas um único ano, não podemos afirmar de maneira mais efusiva, evitando um viés na nossa análise.
 
 # Muito Obrigado
 **Colaboradores**
