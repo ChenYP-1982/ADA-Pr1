@@ -4,7 +4,7 @@ O **Campeonato Brasileiro**, também conhecido como **Brasileirão** e **Série 
 
 # Escopo do projeto
 
-#### Para reprodutibilidade do PR sugere a seguintes oreientacoes
+#### Para reprodutibilidade do PR sugere a seguintes oreientações
 
 ```
 bash
@@ -58,6 +58,10 @@ Foi usado um um codigo de teste para extrair as informacoes necessarias para ape
 
 ![Local Image](img/teste1.png)
 
+Após conseguir extrair as informações criamos uma tabela pandas para facilitar a visualização do resultado
+
+![Local Image](img/Eg1.png)
+
 # Data Preparation 
 
 Para a preparacao dos dados,  criamos uma funcao onde ela recebe um parametro que vai ser a o dataset a ser analisado, segue um exemplo do codigo implemenado.
@@ -66,17 +70,17 @@ Os dados foram retiradas e trabalhadas para obtermos as informacoes de colocacao
 
 ![Local Image](img/codigo1.png)
 
-Obtendo um resultado 
+## Obtendo um resultado 
 
 ![Local Image](img/dados_finais.png)
 
-# Conclusao Final
+# Conclusāo 
 
-O questionamento levantado pela diretoria se ha uma relacao entre Longevidade e Posicao final  dos times, foi pode ser respondida de forma taxativa. 
+O questionamento levantado pela diretoria se há uma relacao entre Longevidade e Posicao final  dos times, foi pode ser respondida de forma taxativa. 
 
 ![Local Image](img/grafico_final.png)
 
-Porem para responder de uma maneira mais visual foi usado o grafico de regressao e um heatmap para entender a correlacao entre as variaveis
+Porém, para responder de uma maneira mais visual foi usado o grafico de regressão e um heatmap para entender a correlaçāo entre as variáveis
 
 **REGPLOT**
 
@@ -91,7 +95,7 @@ Atraves desses dois graficos podemos entender que longevidade apresenta um corre
 # Muito Obrigado
 **Colaboradores**
 
-Ana Carol
+Ane Carol
 
 Chen Yen Pin
 
